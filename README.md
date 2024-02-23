@@ -1,0 +1,1 @@
+# JWT auth personal educational repository
